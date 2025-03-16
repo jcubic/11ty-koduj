@@ -1,0 +1,12 @@
+{
+  "name": "11ty-koduj",
+  "version": "0.0.1",
+  "description": "A simple website built with 11ty",
+  "scripts": {
+    "start": "eleventy --serve --port 3000",
+    "build": "eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
